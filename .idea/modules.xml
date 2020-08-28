@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/15_filter/15_filter.iml" filepath="$PROJECT_DIR$/15_filter/15_filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16_json_ajax_i18n/16_json_ajax_i18n.iml" filepath="$PROJECT_DIR$/16_json_ajax_i18n/16_json_ajax_i18n.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../book/book.iml" filepath="$PROJECT_DIR$/../book/book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb.iml" filepath="$PROJECT_DIR$/javaweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tmp/tmp.iml" filepath="$PROJECT_DIR$/tmp/tmp.iml" />
+    </modules>
+  </component>
+</project>
